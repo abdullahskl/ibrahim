@@ -1,2 +1,2 @@
 # ibrahim
- sample file
+ sample
