@@ -1,5 +1,9 @@
 #YAML
 person:
-  name: "abdullah"
-  age: "hghgkhg"
-  name: Aircraft  engineer ibrahim asghar :)
+  name: abdullah
+  age: 24
+  male: true
+  potential: yes
+
+person2:
+  team: 2
